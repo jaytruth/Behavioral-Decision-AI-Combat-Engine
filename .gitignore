@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.exe
+*.out
+
+# Ignore simulation result files
+data/*.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
